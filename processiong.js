@@ -96,9 +96,9 @@ function predictImage() {
 
 
     // Testing only 
-    const outputCanvas = document.createElement('CANVAS');
-    cv.imshow(outputCanvas, image);
-    document.body.appendChild(outputCanvas);
+        // const outputCanvas = document.createElement('CANVAS');
+        // cv.imshow(outputCanvas, image);
+        // document.body.appendChild(outputCanvas);
 
 
     // Cleanuo
